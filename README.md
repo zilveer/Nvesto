@@ -2,7 +2,7 @@
 
 A multi-asset stock trading game is now available at [nvesto.io](https://www.nvesto.io). Feel free to register and play/trade.
 
-### Rules of the game 
+### Principles of the game 
 
 1. The game is currently completely free of charge. To participate in the game you need to create an account, by providing your name, email address, and creating a password. You will need to confirm your email address, and upon a successful registration you will be assigned a unique account number and password. 
 
