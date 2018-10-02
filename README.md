@@ -1,6 +1,6 @@
 # Nvesto Stock Exchange
 
-![My image](https://github.com/Goykhman/Nvesto/blob/master/logo.jpg)
+![](https://github.com/Goykhman/Nvesto/blob/master/logo.jpg)
 
 A multi-asset stock trading game is now available at [nvesto.io](https://www.nvesto.io). Feel free to register and play/trade.
 
@@ -17,7 +17,5 @@ A multi-asset stock trading game is now available at [nvesto.io](https://www.nve
 5. An extra kick of the game is the _sentiment news_. The sentiment news (sentiments) are stochastically generated news related to the Nvesto stocks. These news pop up randomly once in a while on the Nvesto website, and are visible to the users when they select a stock for a trade on the Order page. The timing of the sentiments is not predictable. Each trader needs to decide how the sentiments are going to influence their trading strategy. However, the subtlety is that the traders need to guess how the **majority** of the traders are going to react to the sentiments, because that will influence how the prices of the stocks are going to move.
 
 6. Nvesto offers a possibility to incorporate both the fundamental analysis (based on the sentiments) and the technicagl analysis into the trading strategy. For the latter Nvesto Stock Exchange supplies the users with the real-time stock prices and the historical price records, and provides the moving average indicators of the stock prices.
-
-
 
 The backend of the website is remarkably straightforward. Stock orders are recorded in the order books and are filled by matching engine, searching for the best bid and the best ask prices, as well as prioritizing in the first come first served order of execution. 
