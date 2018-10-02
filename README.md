@@ -1,6 +1,6 @@
 # Nvesto Stock Exchange
 
-![My image](goykhman.github.com/Nvesto/logo.png)
+![My image](goykhman.github.com/Nvesto/logo.jpg)
 
 A multi-asset stock trading game is now available at [nvesto.io](https://www.nvesto.io). Feel free to register and play/trade.
 
