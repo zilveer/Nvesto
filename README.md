@@ -1,6 +1,4 @@
-# Nvesto Stock Exchange
-
-<div style="text-align:center;font-size=20px">Nvesto Stock Exchange</div>
+<div style="text-align:center;font-size=60px;color:blue">Nvesto Stock Exchange</div>
 
 <div style="text-align:center"><img src ="https://goykhman.github.io/Nvesto/logo.jpg" /></div>
 
